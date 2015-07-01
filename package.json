@@ -1,0 +1,26 @@
+{
+  "name": "procedural-tiles-32",
+  "version": "0.0.1',
+  "description": "Implementation of @mreinstein spec-procedural-tiles",
+  "author": "Ivan Popelyshev",
+  "contributors": [
+    "Ivan Popelyshev <ivan.popelyshev@gmail.com>"
+  ],
+  "main": "./src/index.js",
+  "bugs": {
+    "url": "https://github.com/pixijs/procedural-tiling-32/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanpopelyshev/procedural-tiling-32.git"
+  },
+  "keywords": [
+    "tiling",
+    "tile",
+    "procedural"
+  ],
+  "dependencies": {
+    "seedrandom": "^2.4.0"
+  }
+}
